@@ -129,16 +129,20 @@ export default function Home() {
       <DoctorCard
          className=""
       />
-      <DoctorCardsGrid  className=""
+      <DoctorCardsGrid  
+        className=""
 
       />
-      <ProductCard  className=""
+      <ProductCard  
+        className=""
 
       />
-      <ProductsGrid  className=""
+      <ProductsGrid  
+        className=""
 
       />
-      <ProfileCard  className=""
+      <ProfileCard  
+        className=""
 
       />
     </main>
