@@ -298,3 +298,4 @@ export const ClinicPricingPackages: React.FC<PricingPackagesProps> = ({
     </section>
   );
 };
+export default pricePackage; 
