@@ -127,18 +127,18 @@ export default function Home() {
 
       />
       <DoctorCard
+         className=""
+      />
+      <DoctorCardsGrid  className=""
 
       />
-      <DoctorCardsGrid
+      <ProductCard  className=""
 
       />
-      <ProductCard
+      <ProductsGrid  className=""
 
       />
-      <ProductsGrid
-
-      />
-      <ProfileCard
+      <ProfileCard  className=""
 
       />
     </main>
