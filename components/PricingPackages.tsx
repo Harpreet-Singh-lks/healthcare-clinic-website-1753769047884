@@ -19,7 +19,7 @@ interface PricingPackagesProps {
   onSelectPlan?: (planId: string) => void;
 }
 
-export const ClinicPricingPackages: React.FC<PricingPackagesProps> = ({
+export const PricingPackages: React.FC<PricingPackagesProps> = ({
   title = "Choose Your Plan",
   subtitle = "Select the perfect plan for your healthcare needs",
   userId,
