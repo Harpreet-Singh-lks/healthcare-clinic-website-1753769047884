@@ -123,6 +123,7 @@ export default function Home() {
         className=""
       />
       <PricingPackages
+         className=""
 
       />
       <DoctorCard
