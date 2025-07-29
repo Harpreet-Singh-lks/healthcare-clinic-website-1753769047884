@@ -127,6 +127,15 @@ export default function Home() {
 
       />
       <DoctorCard
+        doctor = {
+    name: 'John Doe',
+    specialty: 'Cardiologist',
+    experience: '10 years',
+    education: 'MD, Harvard University',
+    photoUrl: 'https://via.placeholder.com/150',
+    rating: 4.5,
+    availableSlots: ['10:00 AM', '11:00 AM', '12:00 PM']
+  }
          className=""
       />
       <DoctorCardsGrid  
