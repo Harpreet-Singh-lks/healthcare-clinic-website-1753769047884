@@ -1,3 +1,4 @@
+"use client";
 import React from 'react';
 import { ClinicHero } from '../components/HeroSection'
 import { ClinicContactForm } from '../components/ContactForm'
